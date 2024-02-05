@@ -1,0 +1,45 @@
+* {
+  font-family: "Poppins";
+}
+body {
+  background-color: #e9eaec;
+}
+.nav-menu {
+  margin-left: -170px;
+}
+.nav-menu a {
+  color: black;
+  text-decoration: none;
+  transition: 300ms;
+}
+.nav-menu a:hover {
+  color: coral;
+}
+.logout a {
+  color: black;
+  text-decoration: none;
+  transition: 300ms;
+}
+.logout a:hover {
+  color: coral;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+.card {
+  width: 400px;
+}
+.btn-menu {
+  width: 300px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.row a {
+  font-size: 20pt;
+}
+.input-form {
+  width: 400px;
+}
